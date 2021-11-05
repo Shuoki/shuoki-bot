@@ -106,3 +106,4 @@ dist
 # da
 config.json
 package-lock.json
+.idea/
