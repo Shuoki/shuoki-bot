@@ -1,2 +1,2 @@
 # shuoki-bot
-Дискорд бот на библиотеки discordoo
+Дискорд бот на библиотеки discord.js 
